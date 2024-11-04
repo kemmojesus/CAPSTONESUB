@@ -2,11 +2,11 @@
 ## Customer data analysis for subscription 
 *Customer Segmentation for Subscription Service*
 
-##*Introduction*
+##Introduction
 
 This project analyzes customer data for a subscription service to identify their subscription segments and trends.
 
-##*Problem Statement*
+##Problem Statement
 
 Understanding customer behavior to improve subscription services.
 
