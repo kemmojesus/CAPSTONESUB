@@ -37,3 +37,16 @@ Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and P
 5. Creation of Power BI dashboard in Power BI folder
 
 ## Visualisation
+
+![SUBpivot](https://github.com/user-attachments/assets/16a0b6c8-6eb6-4ae4-ae09-a73cf07e7850)
+
+![SUB](https://github.com/user-attachments/assets/cd1faa9d-2fa3-4758-a467-6ed0471b672c)
+
+![power bi](https://github.com/user-attachments/assets/63aa3a06-e704-4a7a-83c5-bdf7e9460cb0)
+
+![standard](https://github.com/user-attachments/assets/6ca719d2-c0e1-4b16-90cc-cd88440fe835)
+
+![BI SUBS](https://github.com/user-attachments/assets/94636e18-eb9a-45d9-8493-14b04f367d20)
+
+![BI SUBS](https://github.com/user-attachments/assets/6d6960cf-74b2-4551-b784-6b6e17342a6b)
+
