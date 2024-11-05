@@ -2,36 +2,79 @@
 ## Customer data analysis for subscription 
 *Customer Segmentation for Subscription Service*
 
-##Introduction
+# Sales Performance Analysis
 
-This project analyzes customer data for a subscription service to identify their subscription segments and trends.
+## Project Overview
 
-##Problem Statement
+Analyze sales data for a retail store using SQL, Microsoft Excel, and Power BI to uncover key insights.
 
-Understanding customer behavior to improve subscription services.
+## Tools Used
 
-##*Methodology*
+* SQL (data extraction and manipulation)
+* Microsoft Excel (data analysis and visualization)
+* Power BI (interactive dashboard creation)
 
-- Data exploration and visualization using Excel and Power BI
-- Customer segmentation using SQL
+## Data Sources
 
-##*Results*
+* Sales data (CSV or Excel file)
 
-- [Insert images or embed interactive visualizations]
-- Key findings:
-    - Customer segments: [briefly describe each segment]
-    - Trends: [mention any notable trends or patterns]
+## Objectives
 
-*Conclusion*
+* Identify top-selling products
+* Analyze regional sales performance
+* Discover sales trends over time
 
-This analysis helps understand customer behavior and identifies opportunities to improve subscription services.
+## Repository Structure
 
-*Code and Resources*
+* Data (sales data files)
+* SQL (SQL scripts for data extraction and manipulation)
+* Excel (Excel files for data analysis and visualization)
+* Power BI (Power BI dashboard files)
+* Documentation (project documentation and insights)
 
-- [Link to your Excel file or Power BI dashboard]
-- [Link to dataset or documentation]
+## Getting Started
+1. Duplicate was removed from the Dataset 
+2. Sales data was added to the Data folder
+3. use of SQL COMMAND  to extract and manipulate data
+4. Analysis of data in Excel folder
+5. Creation of Power BI dashboard in Power BI folder
 
-- Visualizations
-    - customer_segments.png (static image)
-    - power_bi_dashboard.pbix (interactive dashboard)
+## Visualisation
+# Sales Performance Analysis
 
+## Project Overview
+
+Analyze sales data for a retail store using SQL, Microsoft Excel, and Power BI to uncover key insights.
+
+## Tools Used
+
+* SQL (data extraction and manipulation)
+* Microsoft Excel (data analysis and visualization)
+* Power BI (interactive dashboard creation)
+
+## Data Sources
+
+* Sales data (CSV or Excel file)
+
+## Objectives
+
+* Identify top-selling products
+* Analyze regional sales performance
+* Discover sales trends over time
+
+## Repository Structure
+
+* Data (sales data files)
+* SQL (SQL scripts for data extraction and manipulation)
+* Excel (Excel files for data analysis and visualization)
+* Power BI (Power BI dashboard files)
+* Documentation (project documentation and insights)
+
+## Getting Started
+1. Duplicate was removed from the Dataset 
+2. Sales data was added to the Data folder
+3. use of SQL COMMAND  to extract and manipulate data
+4. Analysis of data in Excel folder
+5. Creation of Power BI dashboard in Power BI folder
+
+## Visualisation
