@@ -37,7 +37,7 @@ Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and P
 5. Creation of Power BI dashboard in Power BI folder
 
 ## Visualisation
-
+eee
 ![SUBpivot](https://github.com/user-attachments/assets/16a0b6c8-6eb6-4ae4-ae09-a73cf07e7850)
 
 ![SUB](https://github.com/user-attachments/assets/cd1faa9d-2fa3-4758-a467-6ed0471b672c)
@@ -50,4 +50,9 @@ Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and P
 - Total Subscriber is 33,790
 - Total Subscription Cancelled = 15,175
 - Total Subscription Retained = 18,615
-- Customer with Highest Subscription is Anna 
+- Customer with Highest Subscription is Anna a Premium user  with Total Subscription of 1102
+- Region with Highesst cancellation = East
+- Subscription Type with Cancelation = Basic
+
+
+## Conclusion
