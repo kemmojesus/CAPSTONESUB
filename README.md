@@ -46,7 +46,8 @@ Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and P
 
 ![standard](https://github.com/user-attachments/assets/6ca719d2-c0e1-4b16-90cc-cd88440fe835)
 
-![BI SUBS](https://github.com/user-attachments/assets/94636e18-eb9a-45d9-8493-14b04f367d20)
-
-![BI SUBS](https://github.com/user-attachments/assets/6d6960cf-74b2-4551-b784-6b6e17342a6b)
-
+## Observations
+- Total Subscriber is 33,790
+- Total Subscription Cancelled = 15,175
+- Total Subscription Retained = 18,615
+- Customer with Highest Subscription is Anna 
