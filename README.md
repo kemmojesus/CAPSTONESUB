@@ -46,6 +46,15 @@ Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and P
 * Excel (Excel files for data analysis and visualization)
 * Power BI (Power BI dashboard files)
 
+## Data Analysis
+---
+some of the lines of code that was used 
+
+```SQL
+Select * from Subscription
+
+```
+
 ## Methodology 
 1. Duplicate was removed from the Dataset 
 2. Sales data was added to the Data folder
