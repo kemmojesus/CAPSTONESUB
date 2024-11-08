@@ -61,17 +61,18 @@ eee
 
 ![sql](https://github.com/user-attachments/assets/2546bb0c-b771-4a8a-9c33-234d5e48251d)
 
-![BI SUB](https://github.com/user-attachments/assets/24367ad2-60b5-4bc8-ac45-4c17d6d52894)
+![SUB](https://github.com/user-attachments/assets/f864c53e-556b-49ee-8be6-74e6bfcd131b)
 
-![BASIC](https://github.com/user-attachments/assets/63cd1328-56d9-47ce-b3e6-19543b85f5bb)
+![PREM](https://github.com/user-attachments/assets/83a2c368-269d-4e85-bef2-cc4c1042cfff)
 
-![sTANDARD](https://github.com/user-attachments/assets/44498dd3-3143-40c4-ad2c-8e6ff6b8cdfe)
+![bASIC](https://github.com/user-attachments/assets/d95b980d-d6dc-4b45-a575-aaa808334681)
 
-![PREMIUN](https://github.com/user-attachments/assets/22f7d5a7-7fdb-4143-8447-f81d5fb55dac)
+![STH](https://github.com/user-attachments/assets/d05d23af-0860-4b84-aab2-4adc2a8e8db7)
 
-![ANNA](https://github.com/user-attachments/assets/bf04f0b5-43d1-493d-858a-b1bdf6fa4929)
 
-![TOM](https://github.com/user-attachments/assets/5e353127-25a1-4f15-b4d2-5816beaca0cf)
+
+
+
 
 ## Observations
 - Total Subscriber is 33,790
