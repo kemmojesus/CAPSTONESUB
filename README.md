@@ -4,7 +4,7 @@
 
 [Project Overview](#project_overview)
 
-[Tools Used](#tools used)
+[Tools](#tools)
 
 [Data Sources](#data_sources)
 
@@ -16,12 +16,14 @@
 
 [Data Analysis](#data_analysis)
 
+[Visualisation](visualisation)
+
 
 ## Project Overview
 
 Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and Power BI to uncover key insights.
 
-## Tools Used
+## Tools
 
 * SQL (data extraction and manipulation)
 * Microsoft Excel (data analysis and visualization)
