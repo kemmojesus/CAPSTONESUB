@@ -2,6 +2,21 @@
 ## Customer data analysis for subscription 
 *Customer Segmentation for Subscription Service*
 
+[Project Overview](#project_overview)
+
+[Tools Used](#tools used)
+
+[Data Sources](#data_sources)
+
+[Objectives](objectives)
+
+[Data Preparation](#data_preparation)
+
+[Methodology](methodology)
+
+[Data Analysis](#data_analysis)
+
+
 ## Project Overview
 
 Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and Power BI to uncover key insights.
@@ -22,14 +37,14 @@ Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and P
 * Track subscription type
 * Identify key trends in cancellation and renewal
 * 
-## Repository Structure
+## Data Preparation
 
 * Data (subscription data files)
 * SQL (SQL scripts for data extraction and manipulation)
 * Excel (Excel files for data analysis and visualization)
 * Power BI (Power BI dashboard files)
 
-## Getting Started
+## Methodology 
 1. Duplicate was removed from the Dataset 
 2. Sales data was added to the Data folder
 3. use of SQL COMMAND  to extract and manipulate data
@@ -62,7 +77,8 @@ eee
 - Total Subscription Retained = 18,615
 - Customer with Highest Subscription is Anna a Premium user  with Total Subscription of 1102
 - Region with Highesst cancellation = East
-- Subscription Type with Cancelation = Basic
+- Subscription Type with Cancelation = Premium
 
+## Data Analysis
 
 ## Conclusion
