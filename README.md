@@ -46,6 +46,20 @@ eee
 
 ![standard](https://github.com/user-attachments/assets/6ca719d2-c0e1-4b16-90cc-cd88440fe835)
 
+![sql](https://github.com/user-attachments/assets/2546bb0c-b771-4a8a-9c33-234d5e48251d)
+
+![BI SUB](https://github.com/user-attachments/assets/24367ad2-60b5-4bc8-ac45-4c17d6d52894)
+
+![BASIC](https://github.com/user-attachments/assets/63cd1328-56d9-47ce-b3e6-19543b85f5bb)
+
+![sTANDARD](https://github.com/user-attachments/assets/44498dd3-3143-40c4-ad2c-8e6ff6b8cdfe)
+
+![PREMIUN](https://github.com/user-attachments/assets/22f7d5a7-7fdb-4143-8447-f81d5fb55dac)
+
+![ANNA](https://github.com/user-attachments/assets/bf04f0b5-43d1-493d-858a-b1bdf6fa4929)
+
+![TOM](https://github.com/user-attachments/assets/5e353127-25a1-4f15-b4d2-5816beaca0cf)
+
 ## Observations
 - Total Subscriber is 33,790
 - Total Subscription Cancelled = 15,175
