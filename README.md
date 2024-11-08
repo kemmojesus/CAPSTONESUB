@@ -42,10 +42,6 @@ eee
 
 ![SUB](https://github.com/user-attachments/assets/cd1faa9d-2fa3-4758-a467-6ed0471b672c)
 
-![power bi](https://github.com/user-attachments/assets/63aa3a06-e704-4a7a-83c5-bdf7e9460cb0)
-
-![standard](https://github.com/user-attachments/assets/6ca719d2-c0e1-4b16-90cc-cd88440fe835)
-
 ![sql](https://github.com/user-attachments/assets/2546bb0c-b771-4a8a-9c33-234d5e48251d)
 
 ![BI SUB](https://github.com/user-attachments/assets/24367ad2-60b5-4bc8-ac45-4c17d6d52894)
