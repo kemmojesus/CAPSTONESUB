@@ -8,11 +8,11 @@
 
 [Data Sources](#data_sources)
 
-[Objectives](objectives)
+[Objectives](#objectives)
 
 [Data Preparation](#data_preparation)
 
-[Methodology](methodology)
+[Methodology](#methodology)
 
 [Data Analysis](#data_analysis)
 
