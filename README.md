@@ -89,10 +89,10 @@ eee
 - Total Subscriber is 33,790
 - Total Subscription Cancelled = 15,175
 - Total Subscription Retained = 18,615
+- Cancellatiion Rate = 45%
 - Customer with Highest Subscription is Anna a Premium user  with Total Subscription of 1102
-- Region with Highesst cancellation = East
-- Subscription Type with Cancelation = Premium
-
-## Data Analysis
+- Region with Highesst cancellation = South
+- Subscription Type with Highest Cancelation is = Premium
 
 ## Conclusion
+the cancellation rate of Premium could be as a result of high cost of purchase but not meeting the needs of the customers. this can be resolved by either reducing the price or increasing the quality and performance of Premium.
