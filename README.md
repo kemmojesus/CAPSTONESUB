@@ -2,7 +2,7 @@
 ## Customer data analysis for subscription 
 *Customer Segmentation for Subscription Service*
 
-[Project Overview](#project_overview)
+[Project Overview](#projectoverview)
 
 [Tools](#tools)
 
