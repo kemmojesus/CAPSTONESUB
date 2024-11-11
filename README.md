@@ -47,11 +47,13 @@ Analyze Customer data for subscrupyion service using SQL, Microsoft Excel, and P
 * Power BI (Power BI dashboard files)
 
 ## Data Analysis
----
 some of the lines of code that was used 
 
 ```SQL
 Select * from Subscription
+
+select region, count (Distinct customerID) As customerperRegion
+from [dbo].[SUBSCRIPTION] group by Region 
 
 ```
 
